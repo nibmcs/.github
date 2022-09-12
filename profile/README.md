@@ -19,3 +19,5 @@ We are a student community organization for NIBM's School of Computing, created 
 - [LinkedIn: https://www.linkedin.com/company/nibmcs](https://www.linkedin.com/company/nibmcs)  
 - [Instagram: https://www.instagram.com/nibmcs](https://www.instagram.com/nibmcs)  
 - [Twitter: https://twitter.com/nibmcs](https://twitter.com/nibmcs)  
+
+Find us and follow us. 💙 We will be back with new updates soon. 😊
