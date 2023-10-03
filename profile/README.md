@@ -9,10 +9,6 @@
 
 We are a student community organization for the National Institute of Business Management (NIBM - Sri Lanka), established with the aim of enabling us to learn, share, and build our professions.
 
-### 🎉💙 Executive Committee (2022 - 2023)
-
-<img src="https://user-images.githubusercontent.com/80202913/194698478-5129fcff-bb1d-400d-bad6-82d77a62cac4.png" width="100%" alt="Committee"/>
-
 ## ✨ Where can you find us❓
 
 <img src="https://user-images.githubusercontent.com/80202913/189598322-b1b2e296-f97a-40a3-96cb-960db1d02311.png" height="200" width="200" alt="Logo" align="right"/>
